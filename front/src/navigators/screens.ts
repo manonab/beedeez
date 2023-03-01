@@ -1,3 +1,6 @@
 export enum SCREENS {
-  LOGIN = 'Login',
+  LOGIN = "signin",
+  SIGNUP = "signup",
+  STATIONLIST = "stationlist",
+  STATIONDETAILS = "stationdetails",
 }

@@ -1,6 +1,6 @@
-import React from 'react';
-import {View} from 'react-native';
+import React from "react";
+import {LoginForm} from "../components/login";
 
-export const Login = () => {
-  return <View />;
+export const Login: React.FC = () => {
+  return <LoginForm />;
 };

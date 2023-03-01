@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 import {
   SafeAreaProvider,
   initialWindowMetrics,
-} from 'react-native-safe-area-context';
+} from "react-native-safe-area-context";
 
-import {AppNavigator} from './navigators/AppNavigator';
+import {AppNavigator} from "./navigators/AppNavigator";
 
 const App = () => {
   return (
